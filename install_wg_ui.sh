@@ -1,6 +1,6 @@
 #!/bin/sh
 
-echo 'Lösche alte Wireguard UI Instanz'
+echo 'Loesche alte Wireguard UI Instanz'
 rm /opt/wireguard-ui/wireguard-ui
 
 echo 'Stoppe Wireguard UI Service'
