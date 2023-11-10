@@ -1,4 +1,4 @@
-# Wireguard
+# Wireguard UI for Linux
 
 
 **Install Wireguard UI:**
